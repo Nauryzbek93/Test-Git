@@ -33,5 +33,5 @@ git status - команда, вызыв.блок инф.по сост.репаз
 git branch - выводит ветки
 
 branch - ветка 
-
+git branch name - создание ветки
 
